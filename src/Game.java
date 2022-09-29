@@ -24,6 +24,7 @@ public class Game {
         players = players + 1;
     }
 
+
     public void increaseScore(int increase)
     {
         score += increase;

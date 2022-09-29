@@ -16,7 +16,6 @@ public class Student {
     public void addTestScore(double newTestScore){
         accumulatedTestScores += newTestScore;
         testScoreCount ++;
-
     }
 
 
